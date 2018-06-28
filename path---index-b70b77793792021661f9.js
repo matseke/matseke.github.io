@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{323:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/home/matsek/projects/matseke.github.io/src/blog/first-blog-post.md absPath of file >>> MarkdownRemark",frontmatter:{title:"My first blog post",date:"20 April, 2018"},fields:{slug:"/first-blog-post/"},excerpt:"Me playing bass at a blues jam on Rockbaren."}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-b70b77793792021661f9.js.map

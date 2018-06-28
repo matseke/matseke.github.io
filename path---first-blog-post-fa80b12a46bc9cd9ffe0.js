@@ -1,0 +1,2 @@
+webpackJsonp([0xc8f9a49f58dd],{322:function(t,a){t.exports={data:{markdownRemark:{html:'<p>Me playing bass at a blues jam on Rockbaren.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/gEtw7cXKHRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',frontmatter:{title:"My first blog post"}}},pathContext:{slug:"/first-blog-post/"}}}});
+//# sourceMappingURL=path---first-blog-post-fa80b12a46bc9cd9ffe0.js.map
