@@ -6,7 +6,7 @@ export default ({ data }) => {
   return (
     <div>
       <h1 style={{ display: 'inline-block', borderBottom: '1px solid' }}>
-        Amazing Pandas Eating Things
+        Interesting Things
       </h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
